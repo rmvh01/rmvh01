@@ -1,6 +1,6 @@
 # Roman 'Max' Von Hapsburg
 
-Hello! I'm a normal dude and this is my github!
+Hello!
 
 I recently finished Galvanize's 18-week software engineering immersive program. I left that program
 with the knowledge necessary to start filling up this page with projects! I have one project i'll be
